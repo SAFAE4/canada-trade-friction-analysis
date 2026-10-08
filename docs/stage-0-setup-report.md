@@ -134,7 +134,7 @@ The connection then worked, and Python continued to work because PyMySQL support
 - [x] Python to MySQL write and read test passed
 - [x] Power BI to MySQL connection passed
 - [x] `.env` excluded from Git, `.env.example` created
-- [ ] Stage 0 commit pushed to GitHub
+- [x] Stage 0 commit pushed to GitHub
 
 ---
 
