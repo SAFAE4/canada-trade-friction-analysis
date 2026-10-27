@@ -207,7 +207,7 @@ These are descriptive. They show what moved and when, not why.
 ## 11. Author
 
 **Safae Moudkar**, data and business analysis portfolio project.
-LinkedIn: _add link_ · GitHub: _add link_
+LinkedIn: linkedin.com/in/safae-moudkar-70812b307
 
 ---
 
