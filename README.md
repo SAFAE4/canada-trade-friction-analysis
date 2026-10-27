@@ -410,4 +410,4 @@ Ces constats sont descriptifs. Ils montrent ce qui a changé et à quel moment, 
 ## 11. Autrice
 
 **Safae Moudkar**, projet de portfolio en analyse de données et analyse d'affaires.
-LinkedIn : _ajouter le lien_ · GitHub : _ajouter le lien_
+LinkedIn : linkedin.com/in/safae-moudkar-70812b307
